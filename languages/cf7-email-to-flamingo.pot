@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 - Email to Flamingo (Add-on)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-12 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: contact-form-7-email-to-flamingo.php:23
+msgid "Contact Form 7 - Email to Flamingo requires both Contact Form 7 and Flamingo to be installed and activated. Please install and activate both plugins."
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:36
+msgid "Email to Flamingo"
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:48
+msgid "Configuration Options"
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:58
+msgid "Disable email sending"
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:66
+msgid "Disable email sending and send submissions to Flamingo only."
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:67
+msgid "When enabled, Contact Form 7 will not send emails but will store submissions in Flamingo."
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:81
+msgid "Email to Flamingo Settings"
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:88
+msgid "Note: Enabling this option will prevent all emails from being sent through Contact Form 7. Submissions will be stored in the Flamingo database only."
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:90
+msgid "Learn more about Contact Form 7"
+msgstr ""
+
+#: contact-form-7-email-to-flamingo.php:91
+msgid "Learn more about Flamingo"
+msgstr ""
