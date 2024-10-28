@@ -1,9 +1,9 @@
-# Contact Form 7 - Email to Flamingo (Add-on)
+# Contact Form 7 - Email to Flamingo WordPress Plugin
 
 [![Plugin Version](https://img.shields.io/badge/version-0.2-blue.svg)](https://github.com/drhdev/cf7-email-to-flamingo/releases)
 [![License](https://img.shields.io/badge/license-GPLv2%2B-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
-This WordPress plugin - which is actually an add-on to the WordPress Plugins Contact Form 7 and Flamingo - entirely disables email sending in Contact Form 7 and sends all CF7 submissions directly to Flamingo. It requires both Contact Form 7 and Flamingo WordPress plugins.
+The Contact Form 7 - Email to Flamingo WordPress plugin is actually an add-on to the WordPress Plugins Contact Form 7 and Flamingo. It entirely disables email sending in Contact Form 7 and sends all CF7 submissions directly to Flamingo. It requires both the Contact Form 7 and the Flamingo WordPress plugins.
 
 ## Description
 
@@ -117,8 +117,8 @@ This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/
 
 ## Acknowledgements
 
-- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
-- [Flamingo](https://wordpress.org/plugins/flamingo/)
+- [Contact Form 7](https://github.com/rocklobster-in/contact-form-7)
+- [Flamingo](https://github.com/rocklobster-in/flamingo/)
 - Inspired by the need to manage form submissions within WordPress without relying on email.
 
 ## Author
@@ -127,4 +127,8 @@ Developed by [drhdev](https://github.com/drhdev).
 
 ## Donations
 
-If you find this plugin helpful, consider buying the developers of CF7 a coffee! ;-)
+If you find this plugin helpful, consider buying the the original [developers of CF7](https://contactform7.com/) a coffee! ;-)
+
+## Disclosure
+
+This WordPress plugin is not affliated or endorsed by the developers of Contact Form 7 and the Flamingo WordPress plugin.
