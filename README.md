@@ -3,7 +3,7 @@
 [![Plugin Version](https://img.shields.io/badge/version-0.2-blue.svg)](https://github.com/drhdev/cf7-email-to-flamingo/releases)
 [![License](https://img.shields.io/badge/license-GPLv2%2B-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
-Disables email sending in Contact Form 7 and sends all CF7 submissions directly to Flamingo. Requires both Contact Form 7 and Flamingo plugins.
+This WordPress plugin - which is actually an add-on to the WordPress Plugins Contact Form 7 and Flamingo - entirely disables email sending in Contact Form 7 and sends all CF7 submissions directly to Flamingo. It requires both Contact Form 7 and Flamingo WordPress plugins.
 
 ## Description
 
